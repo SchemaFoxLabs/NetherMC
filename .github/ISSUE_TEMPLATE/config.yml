@@ -1,0 +1,9 @@
+# Maintainers: Keep this Security route consistent with the forms and feedback rules.
+blank_issues_enabled: true
+contact_links:
+  - name: Player reports and sanction appeals
+    url: https://github.com/Labs-mcdev/NetherMC-PublicReport/
+    about: Report players with a valid in-game Report-ID or appeal a mistaken restriction. Read the reporting instructions before submitting.
+  - name: Report a security issue privately
+    url: https://github.com/SchemaFoxLabs/NetherMC/security
+    about: Select Report a vulnerability. If unavailable, open an issue asking only for a private contact method; do not publish vulnerability details.
